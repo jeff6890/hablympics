@@ -1,8 +1,8 @@
 ---
-title: Magna
-home_style: style1
-home_img: images/pic01.jpg
-excerpt: Sed nisl arcu euismod sit amet nisi lorem etiam dolor veroeros et feugiat.
+title: Day 1
+home_style: style2
+home_img: /images/main.png
+excerpt: Opening Ceremony
 date: '2017-04-12'
 img_src: images/pic13.jpg
 template: page
