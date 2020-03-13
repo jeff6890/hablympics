@@ -5,6 +5,9 @@ home_img: /images/main.png
 excerpt: Opening Ceremony
 date: '2017-04-12'
 img_src: images/pic13.jpg
+menus:
+  main:
+    title: Opening Ceremony
 template: page
 ---
 
