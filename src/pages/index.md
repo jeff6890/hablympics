@@ -1,13 +1,10 @@
 ---
 title: Home
-header: |-
-  Erat ut Sapien, mus curae, morbi dictum duis
-  aenean auctor at Dictum.
+header: The Hab Lympics Begin!
 menus:
   main:
     title: Home
     weight: 1
 template: home
 ---
-
-Etiam quis viverra lorem, in semper lorem. Sed nisl arcu euismod sit amet nisi euismod sed cursus arcu elementum ipsum arcu vivamus quis venenatis orci lorem ipsum et magna feugiat veroeros aliquam. Lorem ipsum dolor sit amet nullam dolore.
+The 2020 Hab Lympics kick-off this Summer! There will be 16 days of game events from July 24 - August 9 2020.
