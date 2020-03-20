@@ -23,6 +23,7 @@ export default class Body extends React.Component {
                         <Header {...this.props} />
                         <div id="main">
                             <div className="inner">
+                            <img class="avatars-img" src="https://lh3.googleusercontent.com/proxy/cpDy1PYZY_6U-PbvGfgrMTI4WtUBFssVkeZwF4amic2GuM58l3uCj7wWL4V1l6a0PKYDkaP5V6aUBk6pNuU6UTIlpwREaHPFTwns1_AzTqKN2sys4_jYe9L4JO5qZt820L7uVfeUSU7aF34T" alt=""/>
                                 {this.props.children}
                             </div>
                         </div>
